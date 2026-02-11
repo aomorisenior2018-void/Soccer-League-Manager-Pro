@@ -11,8 +11,7 @@ export default defineConfig({
   plugins: [react()],
   
   // GitHub Pages などのサブディレクトリデプロイに対応するため相対パスを使用
-  base: '/Soccer-League-Manager-Pro
-/',
+  base: '/Soccer-League-Manager-Pro/',
 
   server: {
     port: 3000,
