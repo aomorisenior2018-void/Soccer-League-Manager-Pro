@@ -1,0 +1,5 @@
+{
+  "name": "Soccer-League-Manager-Pro",
+  "description": "A comprehensive soccer league management system with real-time standings calculation, head-to-head tie-breaking logic, and a responsive match matrix for score entry.",
+  "requestFramePermissions": []
+}
